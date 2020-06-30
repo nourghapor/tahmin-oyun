@@ -1,0 +1,9 @@
+D:\form uygulumaları\doğru\doğru\bin\Debug\doğru.exe.config
+D:\form uygulumaları\doğru\doğru\bin\Debug\doğru.exe
+D:\form uygulumaları\doğru\doğru\bin\Debug\doğru.pdb
+D:\form uygulumaları\doğru\doğru\obj\Debug\doğru.csprojResolveAssemblyReference.cache
+D:\form uygulumaları\doğru\doğru\obj\Debug\doğru.Form1.resources
+D:\form uygulumaları\doğru\doğru\obj\Debug\doğru.Properties.Resources.resources
+D:\form uygulumaları\doğru\doğru\obj\Debug\doğru.csproj.GenerateResource.Cache
+D:\form uygulumaları\doğru\doğru\obj\Debug\doğru.exe
+D:\form uygulumaları\doğru\doğru\obj\Debug\doğru.pdb
